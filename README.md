@@ -10,8 +10,14 @@ The aplication displays news source on the landing page when the user clicks the
 ## Technologies Used
 
 Python 3.6
+
 Boostrap
+
 Flask
+
+##livelink
+
+https://sweetnews.herokuapp.com/
 
 ## Setup
 
@@ -33,6 +39,7 @@ pip install - requirements.txt
 
 ## Contact Info
 Email:drewodongo470@gmail.com
+
 +254740478651
 
 ## Licence
