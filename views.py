@@ -1,6 +1,6 @@
 from flask import render_template,request,redirect,url_for
-from app import app
-from .request import get_news,get_article
+from __init__ import app
+from request import get_news,get_article
 
 
 #views

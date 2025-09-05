@@ -1,6 +1,6 @@
-from app import app
+from __init__ import app
 import urllib.request, json
-from .models import news
+from app.models import news
 
 News = news.News
 NewsArticle = news.NewsArticle
